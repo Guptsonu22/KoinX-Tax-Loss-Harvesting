@@ -12,7 +12,7 @@ A responsive React application that helps crypto investors optimize their tax li
 ## 🔗 Live Demo & Deployment
 
 The application is deployed on Vercel:
-👉 **[KoinX Tax Loss Harvesting Live Demo](https://koinx-tax-loss-harvesting.vercel.app/)**
+👉 **[KoinX Tax Loss Harvesting Live Demo](https://koin-x-tax-loss-harvesting-8qxj.vercel.app/)**
 
 ---
 
